@@ -40,6 +40,7 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código. PHAN e PHPCS"
     },
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "bin:": ["buscar-cursos.php"]
     }
 }
